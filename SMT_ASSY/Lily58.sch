@@ -1,0 +1,1456 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Lily58-rescue:ProMicro_2-Lily58-cache U1
+U 1 1 5B722440
+P 1500 -900
+F 0 "U1" H 1500 -200 60  0000 C CNN
+F 1 "ProMicro" H 1500 -1600 60  0000 C CNN
+F 2 "Lily58-footprint:ProMicro_rev2" H 1600 -1950 60  0001 C CNN
+F 3 "" H 1600 -1950 60  0000 C CNN
+	1    1500 -900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW25
+U 1 1 5B722503
+P 5800 4850
+F 0 "SW25" H 5800 5000 50  0000 C CNN
+F 1 "SW_PUSH" H 5800 4750 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 5800 4850 50  0001 C CNN
+F 3 "" H 5800 4850 50  0000 C CNN
+	1    5800 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW26
+U 1 1 5B722582
+P 6600 4850
+F 0 "SW26" H 6600 5000 50  0000 C CNN
+F 1 "SW_PUSH" H 6600 4750 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_27mm" H 6600 4850 50  0001 C CNN
+F 3 "" H 6600 4850 50  0000 C CNN
+	1    6600 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW1
+U 1 1 5B7225DA
+P 5800 2250
+F 0 "SW1" H 5800 2400 50  0000 C CNN
+F 1 "SW_PUSH" H 5800 2150 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 5800 2250 50  0001 C CNN
+F 3 "" H 5800 2250 50  0000 C CNN
+	1    5800 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D1
+U 1 1 5B7226E7
+P 6100 2400
+F 0 "D1" V 6146 2321 50  0000 R CNN
+F 1 "D" V 6055 2321 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 6100 2400 50  0001 C CNN
+F 3 "" H 6100 2400 50  0001 C CNN
+	1    6100 2400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW2
+U 1 1 5B7227CD
+P 6600 2250
+F 0 "SW2" H 6600 2400 50  0000 C CNN
+F 1 "SW_PUSH" H 6600 2150 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 6600 2250 50  0001 C CNN
+F 3 "" H 6600 2250 50  0000 C CNN
+	1    6600 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D2
+U 1 1 5B722847
+P 6900 2400
+F 0 "D2" V 6946 2321 50  0000 R CNN
+F 1 "D" V 6855 2321 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 6900 2400 50  0001 C CNN
+F 3 "" H 6900 2400 50  0001 C CNN
+	1    6900 2400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW3
+U 1 1 5B7228F7
+P 7400 2250
+F 0 "SW3" H 7400 2400 50  0000 C CNN
+F 1 "SW_PUSH" H 7400 2150 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 7400 2250 50  0001 C CNN
+F 3 "" H 7400 2250 50  0000 C CNN
+	1    7400 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D3
+U 1 1 5B722950
+P 7700 2400
+F 0 "D3" V 7746 2321 50  0000 R CNN
+F 1 "D" V 7655 2321 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 7700 2400 50  0001 C CNN
+F 3 "" H 7700 2400 50  0001 C CNN
+	1    7700 2400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW4
+U 1 1 5B722A11
+P 8200 2250
+F 0 "SW4" H 8200 2400 50  0000 C CNN
+F 1 "SW_PUSH" H 8200 2150 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 8200 2250 50  0001 C CNN
+F 3 "" H 8200 2250 50  0000 C CNN
+	1    8200 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D4
+U 1 1 5B722A8F
+P 8500 2400
+F 0 "D4" V 8546 2321 50  0000 R CNN
+F 1 "D" V 8455 2321 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 8500 2400 50  0001 C CNN
+F 3 "" H 8500 2400 50  0001 C CNN
+	1    8500 2400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW5
+U 1 1 5B722B51
+P 9000 2250
+F 0 "SW5" H 9000 2400 50  0000 C CNN
+F 1 "SW_PUSH" H 9000 2150 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 9000 2250 50  0001 C CNN
+F 3 "" H 9000 2250 50  0000 C CNN
+	1    9000 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D5
+U 1 1 5B722BAD
+P 9300 2400
+F 0 "D5" V 9346 2321 50  0000 R CNN
+F 1 "D" V 9255 2321 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 9300 2400 50  0001 C CNN
+F 3 "" H 9300 2400 50  0001 C CNN
+	1    9300 2400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW6
+U 1 1 5B722CA9
+P 9800 2250
+F 0 "SW6" H 9800 2400 50  0000 C CNN
+F 1 "SW_PUSH" H 9800 2200 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 9800 2250 50  0001 C CNN
+F 3 "" H 9800 2250 50  0000 C CNN
+	1    9800 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D6
+U 1 1 5B722FE1
+P 10100 2400
+F 0 "D6" V 10146 2321 50  0000 R CNN
+F 1 "D" V 10055 2321 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 10100 2400 50  0001 C CNN
+F 3 "" H 10100 2400 50  0001 C CNN
+	1    10100 2400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW8
+U 1 1 5B723388
+P 6600 2900
+F 0 "SW8" H 6600 3050 50  0000 C CNN
+F 1 "SW_PUSH" H 6600 2800 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 6600 2900 50  0001 C CNN
+F 3 "" H 6600 2900 50  0000 C CNN
+	1    6600 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW9
+U 1 1 5B723731
+P 7400 2900
+F 0 "SW9" H 7400 3050 50  0000 C CNN
+F 1 "SW_PUSH" H 7400 2800 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 7400 2900 50  0001 C CNN
+F 3 "" H 7400 2900 50  0000 C CNN
+	1    7400 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW10
+U 1 1 5B7237A6
+P 8200 2900
+F 0 "SW10" H 8200 3050 50  0000 C CNN
+F 1 "SW_PUSH" H 8200 2800 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 8200 2900 50  0001 C CNN
+F 3 "" H 8200 2900 50  0000 C CNN
+	1    8200 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW11
+U 1 1 5B72387D
+P 9000 2900
+F 0 "SW11" H 9000 3050 50  0000 C CNN
+F 1 "SW_PUSH" H 9000 2800 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 9000 2900 50  0001 C CNN
+F 3 "" H 9000 2900 50  0000 C CNN
+	1    9000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW12
+U 1 1 5B723AD3
+P 9800 2900
+F 0 "SW12" H 9800 3050 50  0000 C CNN
+F 1 "SW_PUSH" H 9800 2800 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 9800 2900 50  0001 C CNN
+F 3 "" H 9800 2900 50  0000 C CNN
+	1    9800 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW7
+U 1 1 5B723C9D
+P 5800 2900
+F 0 "SW7" H 5800 3050 50  0000 C CNN
+F 1 "SW_PUSH" H 5800 2800 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 5800 2900 50  0001 C CNN
+F 3 "" H 5800 2900 50  0000 C CNN
+	1    5800 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D7
+U 1 1 5B723D94
+P 6100 3050
+F 0 "D7" V 6146 2971 50  0000 R CNN
+F 1 "D" V 6055 2971 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 6100 3050 50  0001 C CNN
+F 3 "" H 6100 3050 50  0001 C CNN
+	1    6100 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D8
+U 1 1 5B723E5F
+P 6900 3050
+F 0 "D8" V 6946 2971 50  0000 R CNN
+F 1 "D" V 6855 2971 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 6900 3050 50  0001 C CNN
+F 3 "" H 6900 3050 50  0001 C CNN
+	1    6900 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D9
+U 1 1 5B723FA1
+P 7700 3050
+F 0 "D9" V 7746 2971 50  0000 R CNN
+F 1 "D" V 7655 2971 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 7700 3050 50  0001 C CNN
+F 3 "" H 7700 3050 50  0001 C CNN
+	1    7700 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D10
+U 1 1 5B7240EA
+P 8500 3050
+F 0 "D10" V 8546 2971 50  0000 R CNN
+F 1 "D" V 8455 2971 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 8500 3050 50  0001 C CNN
+F 3 "" H 8500 3050 50  0001 C CNN
+	1    8500 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D11
+U 1 1 5B72424D
+P 9300 3050
+F 0 "D11" V 9346 2971 50  0000 R CNN
+F 1 "D" V 9255 2971 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 9300 3050 50  0001 C CNN
+F 3 "" H 9300 3050 50  0001 C CNN
+	1    9300 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D12
+U 1 1 5B7243C0
+P 10100 3050
+F 0 "D12" V 10146 2971 50  0000 R CNN
+F 1 "D" V 10055 2971 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 10100 3050 50  0001 C CNN
+F 3 "" H 10100 3050 50  0001 C CNN
+	1    10100 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW13
+U 1 1 5B7250AD
+P 5800 3550
+F 0 "SW13" H 5800 3700 50  0000 C CNN
+F 1 "SW_PUSH" H 5800 3450 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 5800 3550 50  0001 C CNN
+F 3 "" H 5800 3550 50  0000 C CNN
+	1    5800 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW14
+U 1 1 5B725133
+P 6600 3550
+F 0 "SW14" H 6600 3700 50  0000 C CNN
+F 1 "SW_PUSH" H 6600 3450 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 6600 3550 50  0001 C CNN
+F 3 "" H 6600 3550 50  0000 C CNN
+	1    6600 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW15
+U 1 1 5B7251BF
+P 7400 3550
+F 0 "SW15" H 7400 3700 50  0000 C CNN
+F 1 "SW_PUSH" H 7400 3450 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 7400 3550 50  0001 C CNN
+F 3 "" H 7400 3550 50  0000 C CNN
+	1    7400 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW16
+U 1 1 5B72524E
+P 8200 3550
+F 0 "SW16" H 8200 3700 50  0000 C CNN
+F 1 "SW_PUSH" H 8200 3450 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 8200 3550 50  0001 C CNN
+F 3 "" H 8200 3550 50  0000 C CNN
+	1    8200 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW17
+U 1 1 5B7252F1
+P 9000 3550
+F 0 "SW17" H 9000 3700 50  0000 C CNN
+F 1 "SW_PUSH" H 9000 3450 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 9000 3550 50  0001 C CNN
+F 3 "" H 9000 3550 50  0000 C CNN
+	1    9000 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW18
+U 1 1 5B725398
+P 9800 3550
+F 0 "SW18" H 9800 3700 50  0000 C CNN
+F 1 "SW_PUSH" H 9800 3450 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 9800 3550 50  0001 C CNN
+F 3 "" H 9800 3550 50  0000 C CNN
+	1    9800 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D13
+U 1 1 5B7254EE
+P 6100 3700
+F 0 "D13" V 6146 3621 50  0000 R CNN
+F 1 "D" V 6055 3621 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 6100 3700 50  0001 C CNN
+F 3 "" H 6100 3700 50  0001 C CNN
+	1    6100 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D14
+U 1 1 5B7255FF
+P 6900 3700
+F 0 "D14" V 6946 3621 50  0000 R CNN
+F 1 "D" V 6855 3621 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 6900 3700 50  0001 C CNN
+F 3 "" H 6900 3700 50  0001 C CNN
+	1    6900 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D15
+U 1 1 5B72571C
+P 7700 3700
+F 0 "D15" V 7746 3621 50  0000 R CNN
+F 1 "D" V 7655 3621 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 7700 3700 50  0001 C CNN
+F 3 "" H 7700 3700 50  0001 C CNN
+	1    7700 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D16
+U 1 1 5B725841
+P 8500 3700
+F 0 "D16" V 8546 3621 50  0000 R CNN
+F 1 "D" V 8455 3621 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 8500 3700 50  0001 C CNN
+F 3 "" H 8500 3700 50  0001 C CNN
+	1    8500 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D17
+U 1 1 5B72596D
+P 9300 3700
+F 0 "D17" V 9346 3621 50  0000 R CNN
+F 1 "D" V 9255 3621 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 9300 3700 50  0001 C CNN
+F 3 "" H 9300 3700 50  0001 C CNN
+	1    9300 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D18
+U 1 1 5B725AA2
+P 10100 3700
+F 0 "D18" V 10146 3621 50  0000 R CNN
+F 1 "D" V 10055 3621 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 10100 3700 50  0001 C CNN
+F 3 "" H 10100 3700 50  0001 C CNN
+	1    10100 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW21
+U 1 1 5B726F89
+P 7400 4200
+F 0 "SW21" H 7400 4350 50  0000 C CNN
+F 1 "SW_PUSH" H 7400 4100 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 7400 4200 50  0001 C CNN
+F 3 "" H 7400 4200 50  0000 C CNN
+	1    7400 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW22
+U 1 1 5B727035
+P 8200 4200
+F 0 "SW22" H 8200 4350 50  0000 C CNN
+F 1 "SW_PUSH" H 8200 4100 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 8200 4200 50  0001 C CNN
+F 3 "" H 8200 4200 50  0000 C CNN
+	1    8200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW23
+U 1 1 5B7270F6
+P 9000 4200
+F 0 "SW23" H 9000 4350 50  0000 C CNN
+F 1 "SW_PUSH" H 9000 4100 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 9000 4200 50  0001 C CNN
+F 3 "" H 9000 4200 50  0000 C CNN
+	1    9000 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW24
+U 1 1 5B7271A5
+P 9800 4200
+F 0 "SW24" H 9800 4350 50  0000 C CNN
+F 1 "SW_PUSH" H 9800 4100 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 9800 4200 50  0001 C CNN
+F 3 "" H 9800 4200 50  0000 C CNN
+	1    9800 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW20
+U 1 1 5B727256
+P 6600 4200
+F 0 "SW20" H 6600 4350 50  0000 C CNN
+F 1 "SW_PUSH" H 6600 4100 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 6600 4200 50  0001 C CNN
+F 3 "" H 6600 4200 50  0000 C CNN
+	1    6600 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW19
+U 1 1 5B727312
+P 5800 4200
+F 0 "SW19" H 5800 4350 50  0000 C CNN
+F 1 "SW_PUSH" H 5800 4100 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 5800 4200 50  0001 C CNN
+F 3 "" H 5800 4200 50  0000 C CNN
+	1    5800 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D19
+U 1 1 5B72767A
+P 6100 4350
+F 0 "D19" V 6146 4271 50  0000 R CNN
+F 1 "D" V 6055 4271 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 6100 4350 50  0001 C CNN
+F 3 "" H 6100 4350 50  0001 C CNN
+	1    6100 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D20
+U 1 1 5B7277CE
+P 6900 4350
+F 0 "D20" V 6946 4271 50  0000 R CNN
+F 1 "D" V 6855 4271 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 6900 4350 50  0001 C CNN
+F 3 "" H 6900 4350 50  0001 C CNN
+	1    6900 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D21
+U 1 1 5B727929
+P 7700 4350
+F 0 "D21" V 7746 4271 50  0000 R CNN
+F 1 "D" V 7655 4271 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 7700 4350 50  0001 C CNN
+F 3 "" H 7700 4350 50  0001 C CNN
+	1    7700 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D22
+U 1 1 5B727A89
+P 8500 4350
+F 0 "D22" V 8546 4271 50  0000 R CNN
+F 1 "D" V 8455 4271 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 8500 4350 50  0001 C CNN
+F 3 "" H 8500 4350 50  0001 C CNN
+	1    8500 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D23
+U 1 1 5B727BFE
+P 9300 4350
+F 0 "D23" V 9346 4271 50  0000 R CNN
+F 1 "D" V 9255 4271 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 9300 4350 50  0001 C CNN
+F 3 "" H 9300 4350 50  0001 C CNN
+	1    9300 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D24
+U 1 1 5B727D79
+P 10100 4350
+F 0 "D24" V 10146 4271 50  0000 R CNN
+F 1 "D" V 10055 4271 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 10100 4350 50  0001 C CNN
+F 3 "" H 10100 4350 50  0001 C CNN
+	1    10100 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW27
+U 1 1 5B7293B0
+P 7400 4850
+F 0 "SW27" H 7400 5000 50  0000 C CNN
+F 1 "SW_PUSH" H 7400 4750 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 7400 4850 50  0001 C CNN
+F 3 "" H 7400 4850 50  0000 C CNN
+	1    7400 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW28
+U 1 1 5B734347
+P 8200 4850
+F 0 "SW28" H 8200 5000 50  0000 C CNN
+F 1 "SW_PUSH" H 8200 4750 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 8200 4850 50  0001 C CNN
+F 3 "" H 8200 4850 50  0000 C CNN
+	1    8200 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:SW_PUSH-Lily58-cache SW29
+U 1 1 5B73449B
+P 9000 4850
+F 0 "SW29" H 9000 5000 50  0000 C CNN
+F 1 "SW_PUSH" H 9000 4750 50  0000 C CNN
+F 2 "Lily58-footprint:MX_PG1350-Under_FLIP_HOLES_18mm" H 9000 4850 50  0001 C CNN
+F 3 "" H 9000 4850 50  0000 C CNN
+	1    9000 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D25
+U 1 1 5B734844
+P 6100 5000
+F 0 "D25" V 6146 4921 50  0000 R CNN
+F 1 "D" V 6055 4921 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 6100 5000 50  0001 C CNN
+F 3 "" H 6100 5000 50  0001 C CNN
+	1    6100 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D26
+U 1 1 5B7349D1
+P 6900 5000
+F 0 "D26" V 6946 4921 50  0000 R CNN
+F 1 "D" V 6855 4921 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 6900 5000 50  0001 C CNN
+F 3 "" H 6900 5000 50  0001 C CNN
+	1    6900 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D27
+U 1 1 5B734B62
+P 7700 5000
+F 0 "D27" V 7746 4921 50  0000 R CNN
+F 1 "D" V 7655 4921 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 7700 5000 50  0001 C CNN
+F 3 "" H 7700 5000 50  0001 C CNN
+	1    7700 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D28
+U 1 1 5B734CF9
+P 8500 5000
+F 0 "D28" V 8546 4921 50  0000 R CNN
+F 1 "D" V 8455 4921 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 8500 5000 50  0001 C CNN
+F 3 "" H 8500 5000 50  0001 C CNN
+	1    8500 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:D-Lily58-cache D29
+U 1 1 5B734F9E
+P 9300 5000
+F 0 "D29" V 9346 4921 50  0000 R CNN
+F 1 "D" V 9255 4921 50  0000 R CNN
+F 2 "Lily58-footprint:Diode_TH_SOD123" H 9300 5000 50  0001 C CNN
+F 3 "" H 9300 5000 50  0001 C CNN
+	1    9300 5000
+	0    -1   -1   0   
+$EndComp
+Text GLabel 5250 2550 0    50   Input ~ 0
+row0
+Text GLabel 5250 3200 0    50   Input ~ 0
+row1
+Text GLabel 5250 3850 0    50   Input ~ 0
+row2
+Text GLabel 5250 4500 0    50   Input ~ 0
+row3
+Text GLabel 5250 5150 0    50   Input ~ 0
+row4
+Text GLabel 9500 2250 1    50   Input ~ 0
+col0
+Text GLabel 8700 2250 1    50   Input ~ 0
+col1
+Text GLabel 7900 2250 1    50   Input ~ 0
+col2
+Text GLabel 7100 2250 1    50   Input ~ 0
+col3
+Text GLabel 6300 2250 1    50   Input ~ 0
+col4
+Text GLabel 5500 2250 1    50   Input ~ 0
+col5
+Wire Wire Line
+	5250 5150 6100 5150
+Text GLabel 2350 -350 2    50   Input ~ 0
+col5
+Text GLabel 2350 -450 2    50   Input ~ 0
+col4
+Text GLabel 2350 -550 2    50   Input ~ 0
+col3
+Text GLabel 2350 -650 2    50   Input ~ 0
+col2
+Text GLabel 2350 -750 2    50   Input ~ 0
+col1
+Text GLabel 2350 -850 2    50   Input ~ 0
+col0
+NoConn ~ 850  -850
+$Comp
+L Lily58-rescue:VCC-Lily58-cache #PWR04
+U 1 1 5B736B57
+P 2500 -1150
+F 0 "#PWR04" H 2500 -1300 50  0001 C CNN
+F 1 "VCC" H 2500 -1000 50  0000 C CNN
+F 2 "" H 2500 -1150 50  0001 C CNN
+F 3 "" H 2500 -1150 50  0001 C CNN
+	1    2500 -1150
+	0    1    1    0   
+$EndComp
+Text GLabel 2300 -1250 2    50   Input ~ 0
+RESET
+NoConn ~ 2150 -1450
+Text GLabel 850  -1450 0    50   Input ~ 0
+LED
+NoConn ~ 2150 -950
+Text GLabel 850  -950 0    50   Input ~ 0
+SCL
+Text GLabel 850  -1050 0    50   Input ~ 0
+SDA
+NoConn ~ 2150 -1050
+Text GLabel 850  -750 0    50   Input ~ 0
+row0
+Text GLabel 850  -650 0    50   Input ~ 0
+row1
+Text GLabel 850  -550 0    50   Input ~ 0
+row2
+Text GLabel 850  -450 0    50   Input ~ 0
+row3
+Text GLabel 850  -350 0    50   Input ~ 0
+row4
+$Comp
+L Lily58-rescue:MJ-4PP-9-Lily58-cache J2
+U 1 1 5B742D8C
+P -1950 2350
+F 0 "J2" H -2000 2650 60  0000 C CNN
+F 1 "4PIN" H -2000 2050 60  0000 C CNN
+F 2 "Lily58-footprint:MJ-4PP-9" H -1950 2300 60  0001 C CNN
+F 3 "" H -1950 2300 60  0000 C CNN
+	1    -1950 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:LED-Lily58-cache J1
+U 1 1 5B74AE32
+P -1300 1250
+F 0 "J1" H -1300 1450 50  0000 C CNN
+F 1 "LED" H -1300 1050 50  0000 C CNN
+F 2 "Lily58-footprint:StripLED" H -1300 1250 50  0001 C CNN
+F 3 "" H -1300 1250 50  0001 C CNN
+	1    -1300 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:VCC-Lily58-cache #PWR07
+U 1 1 5B74B06A
+P -1100 1150
+F 0 "#PWR07" H -1100 1000 50  0001 C CNN
+F 1 "VCC" H -1083 1323 50  0000 C CNN
+F 2 "" H -1100 1150 50  0001 C CNN
+F 3 "" H -1100 1150 50  0001 C CNN
+	1    -1100 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:GND-Lily58-cache #PWR08
+U 1 1 5B74B15A
+P -1100 1350
+F 0 "#PWR08" H -1100 1100 50  0001 C CNN
+F 1 "GND" H -1095 1177 50  0000 C CNN
+F 2 "" H -1100 1350 50  0001 C CNN
+F 3 "" H -1100 1350 50  0001 C CNN
+	1    -1100 1350
+	1    0    0    -1  
+$EndComp
+Text GLabel -1100 1250 2    50   Input ~ 0
+LED
+$Comp
+L Lily58-rescue:GND-Lily58-cache #PWR010
+U 1 1 5B74C10F
+P -1250 400
+F 0 "#PWR010" H -1250 150 50  0001 C CNN
+F 1 "GND" H -1245 227 50  0000 C CNN
+F 2 "" H -1250 400 50  0001 C CNN
+F 3 "" H -1250 400 50  0001 C CNN
+	1    -1250 400 
+	1    0    0    -1  
+$EndComp
+Text GLabel -950 400  2    50   Input ~ 0
+RESET
+$Comp
+L Lily58-rescue:PWR_FLAG-Lily58-cache #FLG01
+U 1 1 5B74C681
+P 9900 6150
+F 0 "#FLG01" H 9900 6225 50  0001 C CNN
+F 1 "PWR_FLAG" H 9900 6324 50  0000 C CNN
+F 2 "" H 9900 6150 50  0001 C CNN
+F 3 "" H 9900 6150 50  0001 C CNN
+	1    9900 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:GND-Lily58-cache #PWR012
+U 1 1 5B74C7EB
+P 9900 6150
+F 0 "#PWR012" H 9900 5900 50  0001 C CNN
+F 1 "GND" H 9905 5977 50  0000 C CNN
+F 2 "" H 9900 6150 50  0001 C CNN
+F 3 "" H 9900 6150 50  0001 C CNN
+	1    9900 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:VCC-Lily58-cache #PWR013
+U 1 1 5B74C8DE
+P 10250 6150
+F 0 "#PWR013" H 10250 6000 50  0001 C CNN
+F 1 "VCC" H 10267 6323 50  0000 C CNN
+F 2 "" H 10250 6150 50  0001 C CNN
+F 3 "" H 10250 6150 50  0001 C CNN
+	1    10250 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:PWR_FLAG-Lily58-cache #FLG02
+U 1 1 5B74C9D1
+P 10250 6150
+F 0 "#FLG02" H 10250 6225 50  0001 C CNN
+F 1 "PWR_FLAG" H 10250 6323 50  0000 C CNN
+F 2 "" H 10250 6150 50  0001 C CNN
+F 3 "" H 10250 6150 50  0001 C CNN
+	1    10250 6150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Lily58-rescue:HOLE-Lily58-cache TH1
+U 1 1 5B74CE27
+P 7100 6150
+F 0 "TH1" H 7100 6150 60  0000 C CNN
+F 1 "HOLE" H 7100 6050 60  0000 C CNN
+F 2 "Lily58-footprint:HOLE_M2" H 7100 6150 60  0001 C CNN
+F 3 "" H 7100 6150 60  0000 C CNN
+	1    7100 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:HOLE-Lily58-cache TH2
+U 1 1 5B74D0C7
+P 7450 6150
+F 0 "TH2" H 7450 6150 60  0000 C CNN
+F 1 "HOLE" H 7450 6050 60  0000 C CNN
+F 2 "Lily58-footprint:HOLE_M2" H 7450 6150 60  0001 C CNN
+F 3 "" H 7450 6150 60  0000 C CNN
+	1    7450 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:HOLE-Lily58-cache TH4
+U 1 1 5B74D1C0
+P 8450 6150
+F 0 "TH4" H 8450 6150 60  0000 C CNN
+F 1 "HOLE" H 8450 6050 60  0000 C CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 8450 6150 60  0001 C CNN
+F 3 "" H 8450 6150 60  0000 C CNN
+	1    8450 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:HOLE-Lily58-cache TH5
+U 1 1 5B74D78B
+P 8800 6150
+F 0 "TH5" H 8800 6150 60  0000 C CNN
+F 1 "HOLE" H 8800 6050 60  0000 C CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 8800 6150 60  0001 C CNN
+F 3 "" H 8800 6150 60  0000 C CNN
+	1    8800 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:HOLE-Lily58-cache TH6
+U 1 1 5B74D88C
+P 9150 6150
+F 0 "TH6" H 9150 6150 60  0000 C CNN
+F 1 "HOLE" H 9150 6050 60  0000 C CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 9150 6150 60  0001 C CNN
+F 3 "" H 9150 6150 60  0000 C CNN
+	1    9150 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:HOLE-Lily58-cache TH7
+U 1 1 5B74D98F
+P 9500 6150
+F 0 "TH7" H 9500 6150 60  0000 C CNN
+F 1 "HOLE" H 9500 6050 60  0000 C CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 9500 6150 60  0001 C CNN
+F 3 "" H 9500 6150 60  0000 C CNN
+	1    9500 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:HOLE-Lily58-cache TH3
+U 1 1 5B74DA95
+P 8100 6150
+F 0 "TH3" H 8100 6150 60  0000 C CNN
+F 1 "HOLE" H 8100 6050 60  0000 C CNN
+F 2 "Lily58-footprint:HOLE_M2_TH" H 8100 6150 60  0001 C CNN
+F 3 "" H 8100 6150 60  0000 C CNN
+	1    8100 6150
+	1    0    0    -1  
+$EndComp
+Connection ~ 7700 2550
+Wire Wire Line
+	7700 2550 8500 2550
+Wire Wire Line
+	6300 2250 6300 2900
+Wire Wire Line
+	6900 2550 7700 2550
+Connection ~ 7900 4200
+Connection ~ 8500 4500
+Wire Wire Line
+	8500 4500 9300 4500
+Connection ~ 7100 4200
+Connection ~ 7700 4500
+Wire Wire Line
+	7700 4500 8500 4500
+Connection ~ 6300 4200
+Wire Wire Line
+	6300 4200 6300 4850
+Wire Wire Line
+	6900 4500 7700 4500
+Connection ~ 6300 3550
+Wire Wire Line
+	6300 3550 6300 4200
+Wire Wire Line
+	6900 3850 7700 3850
+Connection ~ 7100 3550
+Wire Wire Line
+	7100 3550 7100 4200
+Connection ~ 7700 3850
+Wire Wire Line
+	7700 3850 8500 3850
+Connection ~ 7900 3550
+Wire Wire Line
+	7900 3550 7900 4200
+Connection ~ 8500 3850
+Wire Wire Line
+	8500 3850 9300 3850
+Connection ~ 7900 2900
+Wire Wire Line
+	7900 2900 7900 3550
+Connection ~ 8500 3200
+Wire Wire Line
+	8500 3200 9300 3200
+Wire Wire Line
+	7900 2250 7900 2900
+Connection ~ 7100 2900
+Wire Wire Line
+	7100 2900 7100 3550
+Connection ~ 7700 3200
+Wire Wire Line
+	7700 3200 8500 3200
+Wire Wire Line
+	7100 2250 7100 2900
+Connection ~ 6300 2900
+Wire Wire Line
+	6300 2900 6300 3550
+Wire Wire Line
+	6900 3200 7700 3200
+Connection ~ 8700 2900
+Connection ~ 9300 3200
+Wire Wire Line
+	9300 3200 10100 3200
+Wire Wire Line
+	8700 2250 8700 2900
+Connection ~ 9300 3850
+Wire Wire Line
+	9300 3850 10100 3850
+Wire Wire Line
+	8700 2900 8700 3550
+Connection ~ 9300 4500
+Wire Wire Line
+	9300 4500 10100 4500
+Wire Wire Line
+	8700 4200 8700 4850
+Connection ~ 8500 5150
+Wire Wire Line
+	8500 5150 9300 5150
+Wire Wire Line
+	7900 4200 7900 4850
+Connection ~ 7700 5150
+Wire Wire Line
+	7700 5150 8500 5150
+Wire Wire Line
+	7100 4200 7100 4850
+Connection ~ 6900 5150
+Wire Wire Line
+	6900 5150 7700 5150
+Connection ~ 6100 5150
+Wire Wire Line
+	6100 5150 6900 5150
+Wire Wire Line
+	8700 4200 8700 3550
+Connection ~ 8700 4200
+Connection ~ 8700 3550
+Wire Wire Line
+	9500 3550 9500 4200
+Wire Wire Line
+	9500 3550 9500 2900
+Connection ~ 9500 3550
+Wire Wire Line
+	9500 2900 9500 2250
+Connection ~ 9500 2900
+Wire Wire Line
+	5500 2250 5500 2900
+Wire Wire Line
+	5500 2900 5500 3550
+Connection ~ 5500 2900
+Wire Wire Line
+	5500 3550 5500 4200
+Connection ~ 5500 3550
+Wire Wire Line
+	5500 4200 5500 4850
+Connection ~ 5500 4200
+Wire Wire Line
+	9300 2550 10100 2550
+Wire Wire Line
+	9300 2550 8500 2550
+Connection ~ 9300 2550
+Connection ~ 8500 2550
+Wire Wire Line
+	6900 2550 6100 2550
+Connection ~ 6900 2550
+Wire Wire Line
+	6100 2550 5250 2550
+Connection ~ 6100 2550
+Wire Wire Line
+	6900 3200 6100 3200
+Connection ~ 6900 3200
+Wire Wire Line
+	6100 3200 5250 3200
+Connection ~ 6100 3200
+Wire Wire Line
+	6900 3850 6100 3850
+Connection ~ 6900 3850
+Wire Wire Line
+	6100 3850 5250 3850
+Connection ~ 6100 3850
+Wire Wire Line
+	6900 4500 6100 4500
+Connection ~ 6900 4500
+Wire Wire Line
+	6100 4500 5250 4500
+Connection ~ 6100 4500
+$Comp
+L Lily58-rescue:SW_RST-Lily58-cache RSW1
+U 1 1 5B8CE7E7
+P -1100 400
+F 0 "RSW1" H -1100 656 40  0000 C CNN
+F 1 "SW_RST" H -1100 573 50  0000 C CNN
+F 2 "Lily58-footprint:TACT_SWITCH_TVBP06" H -1100 400 50  0001 C CNN
+F 3 "" H -1100 400 50  0001 C CNN
+	1    -1100 400 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Lily58-rescue:GND-Lily58-cache #PWR0101
+U 1 1 5B8CD05E
+P 2500 -1350
+F 0 "#PWR0101" H 2500 -1600 50  0001 C CNN
+F 1 "GND" H 2500 -1500 50  0000 C CNN
+F 2 "" H 2500 -1350 50  0001 C CNN
+F 3 "" H 2500 -1350 50  0001 C CNN
+	1    2500 -1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:GND-Lily58-cache #PWR0102
+U 1 1 5B8CD27F
+P 600 -1150
+F 0 "#PWR0102" H 600 -1400 50  0001 C CNN
+F 1 "GND" H 600 -1300 50  0000 C CNN
+F 2 "" H 600 -1150 50  0001 C CNN
+F 3 "" H 600 -1150 50  0001 C CNN
+	1    600  -1150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	850  -1250 850  -1150
+Wire Wire Line
+	850  -1150 600  -1150
+Connection ~ 850  -1150
+$Comp
+L power:GND #PWR02
+U 1 1 5B8F3218
+P -1400 2600
+F 0 "#PWR02" H -1400 2350 50  0001 C CNN
+F 1 "GND" H -1395 2427 50  0000 C CNN
+F 2 "" H -1400 2600 50  0001 C CNN
+F 3 "" H -1400 2600 50  0001 C CNN
+	1    -1400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR01
+U 1 1 5B8F42DA
+P -1400 2150
+F 0 "#PWR01" H -1400 2000 50  0001 C CNN
+F 1 "VCC" H -1383 2323 50  0000 C CNN
+F 2 "" H -1400 2150 50  0001 C CNN
+F 3 "" H -1400 2150 50  0001 C CNN
+	1    -1400 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	-1400 2350 -1500 2350
+Wire Wire Line
+	-1500 2450 -1400 2450
+$Comp
+L Lily58-rescue:i2c_pin-Lily58-cache P1
+U 1 1 5B8F6780
+P -1100 2000
+F 0 "P1" H -1100 2100 50  0000 C CNN
+F 1 "i2c_pin" V -1000 2000 50  0000 C CNN
+F 2 "Lily58-footprint:1pin_conn" H -1100 2000 50  0001 C CNN
+F 3 "" H -1100 2000 50  0001 C CNN
+	1    -1100 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Lily58-rescue:i2c_pin-Lily58-cache P2
+U 1 1 5B8F6980
+P -1100 2750
+F 0 "P2" H -1100 2650 50  0000 C CNN
+F 1 "i2c_pin" V -1000 2750 50  0000 C CNN
+F 2 "Lily58-footprint:1pin_conn" H -1100 2750 50  0001 C CNN
+F 3 "" H -1100 2750 50  0001 C CNN
+	1    -1100 2750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	-1500 2550 -1100 2550
+Wire Wire Line
+	-1500 2200 -1100 2200
+Wire Wire Line
+	-1400 2150 -1400 2350
+Wire Wire Line
+	-1400 2450 -1400 2600
+$Comp
+L Device:Jumper W1
+U 1 1 5B900157
+P -800 2550
+F 0 "W1" H -800 2500 50  0000 C CNN
+F 1 "jumper" H -800 2700 50  0000 C CNN
+F 2 "Lily58-footprint:jumper_data" H -800 2550 50  0001 C CNN
+F 3 "" H -800 2550 50  0000 C CNN
+	1    -800 2550
+	-1   0    0    1   
+$EndComp
+Text GLabel 850  -1350 0    50   Input ~ 0
+DATA
+Text GLabel -500 2550 2    50   Input ~ 0
+DATA
+Connection ~ -1100 2550
+$Comp
+L Lily58-rescue:CONN_01X06-Lily58-cache P3
+U 1 1 5BB0EA73
+P -2300 3700
+F 0 "P3" H -2300 4050 50  0000 C CNN
+F 1 "ICSP" H -2300 3350 50  0000 C CNN
+F 2 "Lily58-footprint:ICSP" H -2300 3700 50  0001 C CNN
+F 3 "" H -2300 3700 50  0000 C CNN
+	1    -2300 3700
+	-1   0    0    -1  
+$EndComp
+Text Label -2100 3450 0    50   ~ 0
+MISO
+Text Label -2100 3650 0    50   ~ 0
+SCK
+Text Label -2100 3750 0    50   ~ 0
+MOSI
+Text Label -2100 3850 0    50   ~ 0
+RST
+$Comp
+L power:VCC #PWR0103
+U 1 1 5BB0F35D
+P -2100 3550
+F 0 "#PWR0103" H -2100 3400 50  0001 C CNN
+F 1 "VCC" V -2083 3678 50  0000 L CNN
+F 2 "" H -2100 3550 50  0001 C CNN
+F 3 "" H -2100 3550 50  0001 C CNN
+	1    -2100 3550
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5BB0F4C7
+P -2100 3950
+F 0 "#PWR0104" H -2100 3700 50  0001 C CNN
+F 1 "GND" H -2095 3777 50  0000 C CNN
+F 2 "" H -2100 3950 50  0001 C CNN
+F 3 "" H -2100 3950 50  0001 C CNN
+	1    -2100 3950
+	1    0    0    -1  
+$EndComp
+Text Label 2150 -550 0    50   ~ 0
+MISO
+Text Label 2150 -450 0    50   ~ 0
+MOSI
+Text Label 2150 -1250 0    50   ~ 0
+RST
+Text Label 2150 -650 0    50   ~ 0
+SCK
+Wire Wire Line
+	2300 -1250 2150 -1250
+Wire Wire Line
+	2150 -850 2350 -850
+Wire Wire Line
+	2350 -750 2150 -750
+Wire Wire Line
+	2150 -650 2350 -650
+Wire Wire Line
+	2150 -550 2350 -550
+Wire Wire Line
+	2350 -450 2150 -450
+Wire Wire Line
+	2350 -350 2150 -350
+Wire Wire Line
+	2500 -1350 2150 -1350
+Wire Wire Line
+	2500 -1150 2150 -1150
+$Comp
+L Lily58-rescue:CONN_01X04-Lily58-cache P4
+U 1 1 5BE5032C
+P -1400 4500
+F 0 "P4" H -1400 4250 50  0000 C CNN
+F 1 "OLED" H -1400 4750 50  0000 C CNN
+F 2 "Lily58-footprint:MY_SIL-4" H -1400 4500 50  0001 C CNN
+F 3 "" H -1400 4500 50  0000 C CNN
+	1    -1400 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 5BE50789
+P -800 4350
+F 0 "#PWR03" H -800 4100 50  0001 C CNN
+F 1 "GND" V -800 4200 50  0000 R CNN
+F 2 "" H -800 4350 50  0001 C CNN
+F 3 "" H -800 4350 50  0001 C CNN
+	1    -800 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VCC #PWR09
+U 1 1 5BE509B9
+P -800 4450
+F 0 "#PWR09" H -800 4300 50  0001 C CNN
+F 1 "VCC" V -800 4600 50  0000 L CNN
+F 2 "" H -800 4450 50  0001 C CNN
+F 3 "" H -800 4450 50  0001 C CNN
+	1    -800 4450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	-1200 4350 -1050 4350
+Wire Wire Line
+	-1200 4450 -1100 4450
+Wire Wire Line
+	-1200 4550 -1150 4550
+Text GLabel -800 4550 2    50   Input ~ 0
+SCL
+Text GLabel -800 4650 2    50   Input ~ 0
+SDA
+$Comp
+L Device:Jumper_NO_Small JP1
+U 1 1 5BE6BEDA
+P -900 4350
+F 0 "JP1" H -900 4300 50  0000 C CNN
+F 1 "Jumper_NO_Small" H -900 4444 50  0001 C CNN
+F 2 "Lily58-footprint:Jumper" H -900 4350 50  0001 C CNN
+F 3 "~" H -900 4350 50  0001 C CNN
+	1    -900 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP2
+U 1 1 5BE6E056
+P -900 4450
+F 0 "JP2" H -900 4400 50  0000 C CNN
+F 1 "Jumper_NO_Small" H -900 4544 50  0001 C CNN
+F 2 "Lily58-footprint:Jumper" H -900 4450 50  0001 C CNN
+F 3 "~" H -900 4450 50  0001 C CNN
+	1    -900 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP3
+U 1 1 5BE6E17A
+P -900 4550
+F 0 "JP3" H -900 4500 50  0000 C CNN
+F 1 "Jumper_NO_Small" H -900 4644 50  0001 C CNN
+F 2 "Lily58-footprint:Jumper" H -900 4550 50  0001 C CNN
+F 3 "~" H -900 4550 50  0001 C CNN
+	1    -900 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP4
+U 1 1 5BE6E297
+P -900 4650
+F 0 "JP4" H -900 4600 50  0000 C CNN
+F 1 "Jumper_NO_Small" H -900 4744 50  0001 C CNN
+F 2 "Lily58-footprint:Jumper" H -900 4650 50  0001 C CNN
+F 3 "~" H -900 4650 50  0001 C CNN
+	1    -900 4650
+	1    0    0    -1  
+$EndComp
+Text GLabel -800 4800 2    50   Input ~ 0
+SDA
+Text GLabel -800 4900 2    50   Input ~ 0
+SCL
+$Comp
+L power:VCC #PWR011
+U 1 1 5BE6F5B9
+P -800 5000
+F 0 "#PWR011" H -800 4850 50  0001 C CNN
+F 1 "VCC" V -800 5150 50  0000 L CNN
+F 2 "" H -800 5000 50  0001 C CNN
+F 3 "" H -800 5000 50  0001 C CNN
+	1    -800 5000
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR014
+U 1 1 5BE6F75A
+P -800 5100
+F 0 "#PWR014" H -800 4850 50  0001 C CNN
+F 1 "GND" V -800 4950 50  0000 R CNN
+F 2 "" H -800 5100 50  0001 C CNN
+F 3 "" H -800 5100 50  0001 C CNN
+	1    -800 5100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP5
+U 1 1 5BE6FAC4
+P -900 4800
+F 0 "JP5" H -900 4750 50  0000 C CNN
+F 1 "Jumper_NO_Small" H -900 4894 50  0001 C CNN
+F 2 "Lily58-footprint:Jumper" H -900 4800 50  0001 C CNN
+F 3 "~" H -900 4800 50  0001 C CNN
+	1    -900 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP6
+U 1 1 5BE6FACA
+P -900 4900
+F 0 "JP6" H -900 4850 50  0000 C CNN
+F 1 "Jumper_NO_Small" H -900 4994 50  0001 C CNN
+F 2 "Lily58-footprint:Jumper" H -900 4900 50  0001 C CNN
+F 3 "~" H -900 4900 50  0001 C CNN
+	1    -900 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP7
+U 1 1 5BE6FAD0
+P -900 5000
+F 0 "JP7" H -900 4950 50  0000 C CNN
+F 1 "Jumper_NO_Small" H -900 5094 50  0001 C CNN
+F 2 "Lily58-footprint:Jumper" H -900 5000 50  0001 C CNN
+F 3 "~" H -900 5000 50  0001 C CNN
+	1    -900 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP8
+U 1 1 5BE6FAD6
+P -900 5100
+F 0 "JP8" H -900 5050 50  0000 C CNN
+F 1 "Jumper_NO_Small" H -900 5194 50  0001 C CNN
+F 2 "Lily58-footprint:Jumper" H -900 5100 50  0001 C CNN
+F 3 "~" H -900 5100 50  0001 C CNN
+	1    -900 5100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	-1200 4650 -1200 5100
+Wire Wire Line
+	-1150 5000 -1150 4550
+Wire Wire Line
+	-1100 4450 -1100 4900
+Wire Wire Line
+	-1050 4350 -1050 4800
+Wire Wire Line
+	-1000 4350 -1050 4350
+Connection ~ -1050 4350
+Wire Wire Line
+	-1000 4450 -1100 4450
+Connection ~ -1100 4450
+Wire Wire Line
+	-1150 4550 -1000 4550
+Connection ~ -1150 4550
+Wire Wire Line
+	-1200 4650 -1000 4650
+Connection ~ -1200 4650
+Wire Wire Line
+	-1000 4800 -1050 4800
+Wire Wire Line
+	-1100 4900 -1000 4900
+Wire Wire Line
+	-1000 5000 -1150 5000
+Wire Wire Line
+	-1200 5100 -1000 5100
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U?
+U 1 1 5F4EF95E
+P 1200 2400
+F 0 "U?" H 1200 511 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 1200 420 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 1200 2400 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 1200 2400 50  0001 C CNN
+	1    1200 2400
+	1    0    0    -1  
+$EndComp
+Text GLabel 1850 1800 2    50   Input ~ 0
+row0
+Text GLabel 1850 2800 2    50   Input ~ 0
+row1
+Text GLabel 1850 3100 2    50   Input ~ 0
+row2
+Text GLabel 1850 1300 2    50   Input ~ 0
+row3
+Text GLabel 1850 1400 2    50   Input ~ 0
+row4
+Text GLabel 1850 1500 2    50   Input ~ 0
+col5
+Text GLabel 1850 1100 2    50   Input ~ 0
+col4
+Text GLabel 1850 1200 2    50   Input ~ 0
+col3
+Text GLabel 1850 1000 2    50   Input ~ 0
+col2
+Text GLabel 1850 3800 2    50   Input ~ 0
+col1
+Text GLabel 1850 3700 2    50   Input ~ 0
+col0
+Text GLabel 1850 2200 2    50   Input ~ 0
+SDA
+Text GLabel 1850 2100 2    50   Input ~ 0
+SCL
+$EndSCHEMATC
