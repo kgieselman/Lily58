@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Lily58-rescue)(type Legacy)(uri ${KIPRJMOD}/Lily58-rescue.lib)(options "")(descr ""))
+  (lib (name Keyboard_Symbols)(type Legacy)(uri ${KIPRJMOD}/kicad_library_keyboard/Keyboard_Symbols.lib)(options "")(descr ""))
 )
