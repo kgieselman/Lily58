@@ -1,4 +1,4 @@
-(module OLED_128x32 (layer F.Cu) (tedit 5F1AF24F)
+(module OLED_128x32 (layer F.Cu) (tedit 5F4EF5CC)
   (descr "Through hole straight socket strip, 1x06, 2.54mm pitch, single row")
   (tags "Through hole socket strip THT 1x06 2.54mm single row")
   (solder_mask_margin 0.0508)
@@ -38,9 +38,14 @@
   (pad 3 thru_hole oval (at 0 -1.27 90) (size 1.7018 1.7018) (drill 1.016) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 1.27 90) (size 1.7018 1.7018) (drill 1.016) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 3.81 90) (size 1.7018 1.7018) (drill 1.016) (layers *.Cu *.Mask))
-  (model "${KIPRJMOD}/Libraries/Keyboard_3DModels/OLED 128x32 Display.step"
+  (model "${KIPRJMOD}/kicad_library_keyboard/Keyboard_3DModels/OLED 128x32 Display.step"
     (offset (xyz -1.3716 -5.969 5.08))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/kicad_library_keyboard/Keyboard_3DModels/OLED 128x32 Display.step"
+    (offset (xyz -1.3716 5.969 -7.62))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 0))
   )
 )

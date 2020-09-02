@@ -1,4 +1,4 @@
-(module MX_1U_Flip (layer F.Cu) (tedit 5F4ECFDA)
+(module MX_1U_Flip (layer F.Cu) (tedit 5F4EF554)
   (descr "Footprint for MX style Keyswitch with 1U cap")
   (tags "MX 1U Key Switch")
   (solder_mask_margin 0.0508)
@@ -39,9 +39,14 @@
     (clearance 0.3048))
   (pad 1 thru_hole rect (at -2.54 -5.08) (size 2.286 2.286) (drill 1.524) (layers *.Cu B.Mask))
   (pad 2 thru_hole rect (at 3.81 -2.54) (size 2.286 2.286) (drill 1.524) (layers *.Cu B.Mask))
-  (model "${KIPRJMOD}/Libraries/Keyboard_3DModels/MX .STEP"
+  (model "${KIPRJMOD}/kicad_library_keyboard/Keyboard_3DModels/MX .STEP"
     (offset (xyz 7.340599999999999 7.365999999999999 5.588))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 0))
+  )
+  (model "${KIPRJMOD}/kicad_library_keyboard/Keyboard_3DModels/MX .STEP"
+    (offset (xyz -7.340599999999999 7.365999999999999 -7.62))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
   )
 )
