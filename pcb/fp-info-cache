@@ -1,0 +1,155 @@
+35187031185038
+Keyboard_Footprints
+Bourns_PEC11R
+
+
+0
+7
+5
+Keyboard_Footprints
+C_0603
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Keyboard_Footprints
+Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm
+Abracon Miniature Ceramic Smd Crystal ABM3B http://www.abracon.com/Resonators/abm3b.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Keyboard_Footprints
+D_SOD-123
+SOD-123
+SOD-123
+0
+4
+2
+Keyboard_Footprints
+EC11E_Combo
+Footprint for EC11E18244A5 using daughter board to allow for encoder to be mounted beneath the board
+rotary encoder
+0
+16
+5
+Keyboard_Footprints
+JLC_ToolingHole
+
+
+0
+0
+0
+Keyboard_Footprints
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+Keyboard_Footprints
+MX_1.5U
+Footprint for MX style Keyswitch with 1.5U cap
+MX 1.5U Key Switch
+0
+2
+2
+Keyboard_Footprints
+MX_1.25U
+Footprint for MX style Keyswitch with 1U cap
+MX 1U Key Switch
+0
+2
+2
+Keyboard_Footprints
+MX_1.75U
+Footprint for MX style Keyswitch with 1.75U cap
+MX 1.75U Key Switch
+0
+2
+2
+Keyboard_Footprints
+MX_1U
+Footprint for MX style Keyswitch with 1U cap
+MX 1U Key Switch
+0
+2
+2
+Keyboard_Footprints
+MX_2.25U
+Footprint for MX style Keyswitch with 2.25U cap
+MX 2.25U Key Switch
+0
+2
+2
+Keyboard_Footprints
+MX_2U
+Footprint for MX style Keyswitch with 2U cap
+MX 2U Key Switch
+0
+2
+2
+Keyboard_Footprints
+MX_6.25U_Split
+Footprint for MX style Keyswitch with 2.75U cap
+MX 6.25U Key Switch
+0
+14
+6
+Keyboard_Footprints
+MX_CapsLock_LED
+Footprint for MX style Keyswitch with 1.75U caps lock
+MX 1.75U Key Switch CAPS LOCK
+0
+8
+4
+Keyboard_Footprints
+MountingHole_2.7mm_Pad
+Mounting Hole 2.7mm
+mounting hole 2.7mm
+0
+1
+1
+Keyboard_Footprints
+OLED_128x32
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+4
+4
+Keyboard_Footprints
+ProMicro_rev
+
+
+0
+48
+24
+Keyboard_Footprints
+QMK_12mm_Silk
+
+
+0
+0
+0
+Keyboard_Footprints
+R_0603
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Keyboard_Footprints
+SPST_FSM2JRT
+
+
+0
+2
+2
+Keyboard_Footprints
+USB_Micro-B_Wuerth_629105150521
+USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+usb micro receptacle
+0
+9
+6
